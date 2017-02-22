@@ -1,0 +1,32 @@
+.sb-background {
+  background: url('https://i2.wp.com/www.squarebarrels.com/wp-content/uploads/2011/10/Square-Barrels-2.jpg?fit=1296%2C1000') no-repeat top fixed;
+  background-size: auto;
+  height: 700px;
+  color: white;
+}
+
+.topmenu {
+  display: inline-block;
+  padding: 12px;
+  border: 2px dotted;
+  border-radius: 0px 0px 6px 6px;
+}
+
+.toprow {
+  display: block;
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 0.75em;
+  font-weight: 600;
+  line-height: 1;
+  margin-top: none;
+  padding: 0px 2px 12px 2px;
+  border-bottom: 2px dotted rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+}
+
+.bottomrow {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
